@@ -1,0 +1,9 @@
+body>.wrapper{
+    display: flex;
+    flex-wrap: wrap;
+}
+.app1,.app2,.app3,.app4{
+    width: 49.45vw;
+    height: 50vh; 
+    border: 1px solid red;
+}
